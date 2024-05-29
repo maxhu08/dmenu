@@ -29,3 +29,7 @@ git clone https://github.com/maxhu08/dmenu
 cd dmenu
 sudo make clean install
 ```
+
+## showcase
+
+![1](./screenshots/1.png)
