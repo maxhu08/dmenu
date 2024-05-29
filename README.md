@@ -17,6 +17,8 @@ patches included so far:
   - centers dmenu in middle of screen
 - `grid` https://tools.suckless.org/dmenu/patches/grid
   - choose amount of lines and columns in dmene
+- `border` https://tools.suckless.org/dmenu/patches/border
+  - adds border around dmenu
 
 ## quick-start
 
