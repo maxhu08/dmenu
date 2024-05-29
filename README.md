@@ -13,8 +13,10 @@ also see:
 
 patches included so far:
 
-- `dmenu` https://tools.suckless.org/dmenu/patches/center
+- `center` https://tools.suckless.org/dmenu/patches/center
   - centers dmenu in middle of screen
+- `grid` https://tools.suckless.org/dmenu/patches/grid
+  - choose amount of lines and columns in dmene
 
 ## quick-start
 
