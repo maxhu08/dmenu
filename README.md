@@ -2,13 +2,6 @@
 
 this is my fork of dmenu
 
-also see:
-
-- my config for `dwm`: https://github.com/maxhu08/dwm
-- my config for `slstatus`: https://github.com/maxhu08/slstatus
-- my config for `st`: https://github.com/maxhu08/st
-- my config for `slock`: https://github.com/maxhu08/slock
-
 ## patches
 
 patches included so far:
